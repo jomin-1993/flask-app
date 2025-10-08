@@ -28,5 +28,5 @@ jobs:
           context: .
           push: true
           tags: | 
-            jomin-1993/flaskapp-action:latest
-            jomin-1993/flaskapp-action:${{ github.sha }}
+            jomin1993/flaskapp-action:latest
+            jomin1993/flaskapp-action:${{ github.sha }}
